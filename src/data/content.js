@@ -1,8 +1,3 @@
-// =====================================================================
-// SEMUA TEKS, FOTO, DAN LAGU DIATUR DI SINI.
-// Kamu tidak perlu menyentuh file lain untuk mengganti isi ucapan ini.
-// Baca komentar di setiap bagian untuk tahu apa yang boleh diganti.
-// =====================================================================
 
 const content = {
   // Nama yang dipakai di beberapa tempat (sapaan singkat)
