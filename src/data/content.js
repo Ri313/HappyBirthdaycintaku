@@ -39,7 +39,7 @@ const content = {
     src: '/music/song.mp3',
     // Kalimat yang mendeskripsikan kenapa lagu ini relevan
     deskripsiHalamanLagu:
-      'Lagu ini selalu mengingatkan mas sama kamu — tiap liriknya kayak lagi cerita soal kita.',
+      'Lagu ini selalu mengingatkan mas sama sayangku.',
   },
 
   // ---------------------------------------------------------------
